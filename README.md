@@ -1,23 +1,39 @@
-# Hi, I'm Jamesson! 👋
+# Jamesson Leandro
 
-Frontend and backend developer. I currently develop backend applications using Django or NodeJS, and web and mobile frontend applications using React and React Native.
+## About Me
 
-I'm currently working at Gaia Corporation.
+I am a passionate software developer with expertise in both frontend and backend technologies. With a strong focus on building scalable and efficient applications, I strive to deliver high-quality solutions that meet the needs of users and clients. I have experience working with a wide range of technologies and languages, enabling me to tackle diverse projects and challenges.
 
-I'm currently studying AWS and interface design.
+## Skills and Technologies
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jamessonlps)](https://github.com/jamessonlps)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamesson-leandro/)](https://www.linkedin.com/in/jamesson-leandro/)
+Here are some of the key technologies and languages I work with:
 
-### 💻🛠️ Tools and Technologies
-___
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
-### ⚡Github Stats
-___
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+         
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamessonlps&show_icons=true&theme=tokyonight)](https://github.com/jamessonlps/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamessonlps&layout=compact&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/jamessonlps/github-readme-stats)
+<i class="devicon-docker-plain colored"></i>
+
+In addition to my technical skills, I also have expertise in cybersecurity platforms for threat monitoring and detection, including:
+
+- Wazuh
+- Zabbix
+- Greenbone
+- OpenVPN
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamessonlps&layout=compact&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/jamessonlps/github-readme-stats)
+
+## Projects
+
+See my Pinned Projects.
+
+Feel free to explore these projects to get a better idea of my work.
+
+## Contact
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/jamesson-leandro/) to discuss potential collaborations or for any inquiries.
+
+I am always excited to work on new projects and contribute to innovative solutions. Let's connect and create something awesome together!
